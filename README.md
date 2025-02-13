@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Dubey🐳🌟</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Developer.</h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Dubey🐳</h1>
+<h3 align="center">A passionate in Data Science and Machine Learning Developer.</h3>
 
 - 🌱 I’m currently learning **Data Science and ML.**
 
