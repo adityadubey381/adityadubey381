@@ -19,4 +19,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadubey381&show_icons=true&locale=en&layout=compact" alt="adityadubey381" /></p>
 <br> <!-- New line added -->
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadubey381&show_icons=true&locale=en" alt="adityadubey381" /></p>
