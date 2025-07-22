@@ -1,19 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Aditya Kumar Dubey🐳</h1>
 <h3 align="center">A passionate in Data Science and Machine Learning Developer.</h3>
-
-- 🌱 I’m currently learning **Data Science and ML.**
-
-- 👯 I’m looking to collaborate on **Data Science and ML Projects.**
-
-- 📫 How to reach me **adityakumardubey381@gmail.com**
-
-# Hello, I'm Aditya Kumar Dubey! 👋
-
 ## 👨‍💻 About Me
 👨‍🎓 🌱 I’m currently learning Data Science and ML..  
 🤝 Open to collaborating on Data Science and ML Projects.  
 💬 Ask me about data analysis, exploratory data analysis (EDA), data visualization, Git, and GitHub.I also have a basic understanding of machine learning (ML).  
-🕷 Fun Fact:Sometimes I feel like a spider — just like it carefully weaves its web, I weave patterns in data, crafting models and visualizations with clean, strong, and creative logic.  
+🕷 Fun Fact: Sometimes I feel like a spider — just like it carefully weaves its web, I weave patterns in data, crafting models and visualizations with clean, strong, and creative logic.  
 🌐 Check out my portfolio: [Portfolio](https://github.com/adityadubey381)
 
 ## 🖥 Tech Stack:
@@ -51,7 +42,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadubey381&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=adityadubey381&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=adityadubey381&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityadubey381&theme=default&hide_border=false)
 </div>
 
